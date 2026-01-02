@@ -1,1 +1,2 @@
 file 2 for my project
+second change in file 2
