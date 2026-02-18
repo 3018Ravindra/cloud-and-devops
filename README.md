@@ -1,2 +1,3 @@
-# my-project
-Creating a CI/CD pipeline 
+Learning CLoud and Devops
+Here to start my journey
+
